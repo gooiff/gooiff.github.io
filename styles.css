@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #cec7c7;
+    margin: 0;
+    padding: 0;
+    background-color: #333030fa;
+}
+
+h1 {
+    color: #cec7c7;
+    text-align: center;
+    margin-top: 20px;
+}
+
+div > p {
+    color: #cec7c7;
+    text-align: center;
+    margin-top: 20px;
+    text-align: center;
+}
+.container {
+    max-width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #444;
+    border-radius: 8px;
+}
+
+#clickMe {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007BFF;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;;
+}
